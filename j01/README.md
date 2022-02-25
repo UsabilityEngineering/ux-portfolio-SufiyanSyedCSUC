@@ -1,6 +1,8 @@
 # Spotify Codes 
 ### By Sufiyan Syed - 2/25/22
 
+![ ](Users/sufiy/Desktop/CSUCSP2022/CSCI/UX.Journal.1.files/spotify.codes.poster.png)
+
 Spotify in addition to Apple Music are both the most popular music streaming services in the industry today. As both these apps compete for market share, they are continually improving their unique app experiences. Spotify in particular has taken a personalized approach to Music streaming by giving users a yearly summary of their most listened to artists, songs, and albums that they can post on social media and share with others. Not only did this feature make the app more personal but increased social engagement with their app that allowed for music discovery. 
 
 More recently in 2017, Spotfiy furthered this intiative by releasing “Spotify Codes'', a new way for users to share and discover content on Spotify. This feature essentially generates a unique code for every song, artist, and album on their platform which can be scanned by a QR like scanner in the app to direct you to that content. In this way, the features allow users to share and discover music with others and allows for the codes to be used for marketing purposes. 
