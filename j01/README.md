@@ -1,7 +1,7 @@
 # Spotify Codes 
 ### By Sufiyan Syed - 2/25/22
 
-![ ](/assets/spotify.codes.poster.png)
+![ ](https://github.com/UsabilityEngineering/ux-portfolio-SufiyanSyedCSUC/blob/a29daa5e0ae5c461c92c9677d7975d39ea20612a/assets/spotify.codes.poster.png)
 
 Spotify in addition to Apple Music are both the most popular music streaming services in the industry today. As both these apps compete for market share, they are continually improving their unique app experiences. Spotify in particular has taken a personalized approach to Music streaming by giving users a yearly summary of their most listened to artists, songs, and albums that they can post on social media and share with others. Not only did this feature make the app more personal but increased social engagement with their app that allowed for music discovery. 
 
