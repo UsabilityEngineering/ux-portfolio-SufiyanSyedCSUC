@@ -57,7 +57,7 @@ The screen returns to the *Home tab* completely erasing my search bar.
 
 ![rokutv_labeled](../assets/J2/rokutv_labeled.jpg "image7\")
 
-The experience in the interaction above highlights its deficiencies in the interface regarding its Usability. In terms of **efficiency**, the configuration of the UI results in you taking far too much time typing. In this interaction, typing gets so time-consuming, tedious and **unsatisfying** that I begin to lose attention. This collectively results in a diminishing **error tolerance** as I give up on using the device when I make an error and my search bar is erased. 
+The experience in the interaction above highlights its deficiencies in the interface regarding its Usability. In terms of **efficiency**, the configuration and elements of the UI results in you taking far too much time typing. In this interaction, typing gets so time-consuming, tedious and **unsatisfying** that I begin to lose attention. This collectively results in a diminishing **error tolerance** as I give up on using the device when I make an error and my search bar is erased. 
 
 In addition the remote’s UI is not optimized for navigation within apps. For example I would frequently confuse the Home Icon on the interface with the Home Icon on the Youtube app, thinking it would direct me to the home screen of the app rather than the home screen of the TV. Having the remote interface better designed for use within apps would result in increased **efficiency**. 
 
