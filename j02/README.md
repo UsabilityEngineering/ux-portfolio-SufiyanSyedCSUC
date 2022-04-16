@@ -63,5 +63,5 @@ Particularly to the TV and the Youtube app, the interface is not very efficient 
 
 #### Conclusion 
 
-
+Other than pause/play and browsing through content with the arrow keys, using a search bar is one of the most common things I find myself doing on this device. For this reason, It's perplexing to see it being completely neglected with an absence of a backspace or spacebar button. The remote has two ways to pause/play with the OK and >II buttons; and two features to skip/rewind with the Left/Right arrow and <</>> buttons. Having duplicate buttons for the same action is a poor design decision when features to help typing and searching could have been added instead. 
 
