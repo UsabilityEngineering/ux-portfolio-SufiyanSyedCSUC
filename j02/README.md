@@ -7,19 +7,19 @@ I say “What’s Up”, run to my room and hurl my backpack onto my bed. I grab
 
 “You guys see Jordan Poole’s career high game a few weeks ago? He scored like 50 points” I said. “No way 50 points! Here play it” my roommate says as he throws the TV remote across the room while imitating shooting a basketball. 
 
-[insert photo of remote UI] 
+![rokutv_UI](../assets/J2/rokutv_UI.jpg "image1\")
 
 I press the *home* button to return to the *YouTube homepage* 
 
-[insert photo of TV home] 
+![rokutv_home](../assets/J2/rokutv_home.jpg "image2\")
 
 “Oops wrong button” I say as I *click OK* to return to the *YouTube homepage*
 
-[insert photo of YouTube home] 
+![rokutv_yt_home](../assets/J2/rokutv_yt_home.jpg "image3\")
 
 I press *Left, Up, and OK* to access the *search bar*
 
-[inset photo of the search bar] 
+![rokutv_yt_search1](../assets/J2/rokutv_yt_search1.jpg "image4\")
 
 I begin to use the *Left, Right, Up, Down arrow buttons* to *spell out “Jordan Poole 50 Points”*
 
@@ -37,7 +37,7 @@ I continue
 
 20 seconds goes by and I managed to *spell “Jordan P”* on the *Youtube Search bar.*
 
-[insert photo of “Jordan P” in the search bar] 
+![rokutv_yt_search2](../assets/J2/rokutv_yt_search2.jpg "image5\")
 
 Again I repeat in my head *O . . . O . . . O*
 
@@ -47,7 +47,7 @@ Overconfidently I *click OK* too early and accidentally chose *P* again.
 
 The screen returns to the *Home tab* completely erasing my search bar.
 
-[insert photo of YouTube Home] 
+![rokutv_yt_home](../assets/J2/rokutv_yt_home.jpg "image6\")
 
 “Dammit!” I scream in anger. “Let me just show you on my phone” I tell my roommate as I find the video on the YouTube mobile app and *click play*.
 
@@ -55,7 +55,7 @@ The screen returns to the *Home tab* completely erasing my search bar.
 
 #### Interaction Reflection 
 
-[insert photo of remote labeled] 
+![rokutv_labeled](../assets/J2/rokutv_labeled.jpg "image7\")
 
 The experience in the interaction above highlights its deficiencies in the interface regarding its Usability. In terms of **efficiency**, the configuration of the UI results in you taking far too much time typing. In this interaction, typing gets so time-consuming, tedious and **unsatisfying** that I begin to lose attention. This collectively results in a diminishing **error tolerance** as I give up on using the device when I make an error and my search bar is erased. 
 
