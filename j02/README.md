@@ -13,7 +13,7 @@ I press the *home* button to return to the *YouTube homepage*
 
 ![rokutv_home](../assets/J2/rokutv_home.jpg "image2\")
 
-“Oops wrong button” I say as I *click OK* to return to the *YouTube homepage*
+“Oops wrong button” I say as I navigate to Youtube and *click OK* to return to the *YouTube homepage*
 
 ![rokutv_yt_home](../assets/J2/rokutv_yt_home.jpg "image3\")
 
@@ -25,7 +25,7 @@ I begin to use the *Left, Right, Up, Down arrow buttons* to *spell out “Jordan
 
 One letter after another, I find and press OK. 
 
-In my head I repeat *J . . . J . . . J . . . *as I finally navigate to the letter and *click OK*
+In my head I repeat *J . . . J . . . J . . .* as I finally navigate to the letter and *click OK*
 
 I continue 
 
@@ -35,17 +35,17 @@ I continue
 
 *D . . . D . . . D . . . click OK*
 
-20 seconds goes by and I managed to *spell “Jordan P”* on the *Youtube Search bar.*
+20 seconds goes by and I have managed to *spell “Jordan P”* on the *Youtube Search bar.*
 
 ![rokutv_yt_search2](../assets/J2/rokutv_yt_search2.jpg "image5\")
 
 Again I repeat in my head *O . . . O . . . O*
 
-Overconfidently I *click OK* too early and accidentally chose *P* again. 
+Overconfidently I *click OK* too early, accidentally choosing *P* again. 
 
-“Not P, O!” I think in frustration. I then spam the *back* button on the remote, mistaking it with *backspace.* 
+“Not P, O!” I think in frustration. I repeatedly press the *back* button on the remote, mistaking it with *backspace.* 
 
-The screen returns to the *Home tab* completely erasing my search bar.
+The screen returns to the *Home tab*, completely erasing my search bar.
 
 ![rokutv_yt_home](../assets/J2/rokutv_yt_home.jpg "image6\")
 
@@ -57,7 +57,7 @@ The screen returns to the *Home tab* completely erasing my search bar.
 
 ![rokutv_labeled](../assets/J2/rokutv_labeled.jpg "image7\")
 
-The experience in the interaction above highlights its deficiencies in the interface regarding its Usability. In terms of **efficiency**, the configuration and elements of the UI results in you taking far too much time typing. In this interaction, typing gets so time-consuming, tedious and **unsatisfying** that I begin to lose attention. This collectively results in a diminishing **error tolerance** as I give up on using the device when I make an error and my search bar is erased. 
+The experience in the interaction above highlights its deficiencies in the interface regarding its usability. In terms of **efficiency**, the configuration and elements of the UI results in you taking far too much time typing. In this interaction, typing gets so time-consuming, tedious and **unsatisfying** that I begin to lose attention. This collectively results in a diminishing **error tolerance** as I give up on using the device when I make an error and my search bar is erased. 
 
 In addition the remote’s UI is not optimized for navigation within apps. For example I would frequently confuse the Home Icon on the interface with the Home Icon on the Youtube app, thinking it would direct me to the home screen of the app rather than the home screen of the TV. Having the remote interface better designed for use within apps would result in increased **efficiency**. 
 
