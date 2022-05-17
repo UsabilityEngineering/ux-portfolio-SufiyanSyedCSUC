@@ -1,7 +1,10 @@
 
+![slack](../assets/J3/rokutv_UI.jpg "image1\")
+
+
 Slack is a messaging platform commonly used in workplaces for remote communication and collaboration. Slack has a great user experience for its purpose and I often see myself choosing to use slack over tools like Zoom Chat or Microsoft Teams. I think while Zoom and Microsoft messaging platforms try to merge their messaging platforms into their ecosystem, having slack as a standalone platform with its simplistic design and use of workspaces allows for an **efficient** user experience. 
 
-image 
+![slack](../assets/J3/rokutv_UI.jpg "image1\")
 
 Moreover the interface for Slack is very minimal with their information architecture organized from left to right. The narrow column on the left contains the users “workspaces” or folders that facilitate messaging for a team or group. The panel to the right contains all channels in a workspace and direct messaging abilities. On the top left of this panel is macro information regarding the users threads, direct messaging, and saved content. On the main panel towards the right is where users can type out and read messages. Users can easily see timestamps for messages, access threads, and add reactions to messages. 
 
